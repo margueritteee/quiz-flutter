@@ -1,16 +1,4 @@
-# quiz
+![Screenshot 2024-05-24 132855](https://github.com/margueritteee/quiz-flutter/assets/121063816/81ef4a81-0a1c-4ebe-ba09-5cae1fcac9b8)
 
-A new Flutter project.
+![Screenshot 2024-05-24 132907](https://github.com/margueritteee/quiz-flutter/assets/121063816/6a9ff2ec-c435-48dd-8d16-a398ea006af9)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
